@@ -1,4 +1,5 @@
 ## Bem-vindo(a) ao meu perfil 😁
+### Estudante de Ciência da Computação - INFMG - Campus Montes Claros
 
  <div>
    <a href="https://github.com/warleyramires">
