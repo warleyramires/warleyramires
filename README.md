@@ -33,16 +33,12 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/warleyramires/warleyramires/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=warleyramires.warleyramires&"  />
+</div>
 
 ###
 
 <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGhqcGM0dXZ5Nm5sdjA1M3A1ZHpndjYwYnNkNHloMDljbnd3bjQ5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif"  />
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=warleyramires.warleyramires&"  />
-</div>
 
 ###
